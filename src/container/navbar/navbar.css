@@ -1,0 +1,27 @@
+.carousel {
+  width: 100%;
+  height: 35%;
+}
+.nav {
+  background-color: transparent;
+  color: white;
+}
+.nav-item {
+  text-decoration: none;
+  color: black;
+  padding: 3%;
+}
+.nav-item:active {
+  color: white;
+}
+
+.searchIcon {
+  border: none;
+  background-color: transparent;
+  margin-left: 10%;
+  outline: none;
+}
+.pageHeading {
+  font-size: 180%;
+  padding: 4%;
+}
